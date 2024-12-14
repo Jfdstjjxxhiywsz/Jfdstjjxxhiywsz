@@ -1,0 +1,53 @@
+{
+  "code": 200,
+  "ok": "true",
+  "data": {
+    "nameBn": "লামিয়া বেগম",
+    "nameEn": "LAMIA BEGUM",
+    "gender": "female",
+    "religion": "Islam",
+    "bloodGroup": "O+",
+    "dateOfBirth": "2002-11-10",
+    "father": "মোঃ জালাল আকন",
+    "mother": "ফাতেমা বেগম",
+    "spouse": "মোঃ আল আমিন",
+    "nationalId": "6023633537",
+    "nidFather": "4628626790",
+    "nidMother": "0616213054926",
+    "pin": "20020695113000114",
+    "occupation": "গৃহিনী",
+    "photo": "https://api.rafixt.my.id//photos/6023633537.png",
+    "permanentAddress": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "rmo": "1",
+      "upozila": "মেহেন্দীগঞ্জ",
+      "unionOrWard": "শ্রীপুর",
+      "postOffice": "শ্রীপুর",
+      "postalCode": "৮২৭৪",
+      "wardForUnionPorishod": 4,
+      "additionalMouzaOrMoholla": "বাহেরচর",
+      "additionalVillageOrRoad": "বাহেরচর",
+      "homeOrHoldingNo": "-",
+      "region": "বরিশাল"
+    },
+    "presentAddress": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "rmo": "9",
+      "upozila": "বরিশাল সদর",
+      "cityCorporationOrMunicipality": "বরিশাল সিটি কর্পোরেশন",
+      "unionOrWard": "ওয়ার্ড নং-১৩",
+      "postOffice": "বরিশাল সদর",
+      "postalCode": "৮২০০",
+      "additionalMouzaOrMoholla": "বগুড়া আলেকান্দা",
+      "additionalVillageOrRoad": "দক্ষিন আলেকান্দা, খান সড়ক",
+      "homeOrHoldingNo": "৯৭৫",
+      "region": "বরিশাল"
+    }
+  },
+  "Api_Owner": "RA FI",
+  "Contact_Owner": "@rafi_not_found",
+  "System": "SERVER COPY API",
+  "TG_Channel": "@Team_RxT"
+}
